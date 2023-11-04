@@ -1,0 +1,15 @@
+{
+  "labels":[
+    "SF",
+    "OBJ",
+    "SO",
+    "STR",
+    "WT",
+    "SU"
+  ],
+  "spans_key":"sc",
+  "threshold":null,
+  "max_positive":1,
+  "negative_weight":1.0,
+  "allow_overlap":false
+}
